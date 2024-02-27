@@ -1,0 +1,12 @@
+#include <cstdlib>
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+int main() {
+  int x = 4;
+  cout << x;
+  return 0;
+}

@@ -1,0 +1,14 @@
+#include <cstdlib>
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    int x = 6;
+    x &= 3;
+    cout << x;
+    return 0;
+    system("PAUSE");
+    return EXIT_SUCCESS;
+}
