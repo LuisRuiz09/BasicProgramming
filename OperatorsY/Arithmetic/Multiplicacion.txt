@@ -1,0 +1,14 @@
+#include <cstdlib>
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+  int x = 5;
+  int y = 3;
+  cout << x * y;
+  return 0;
+    system("PAUSE");
+    return EXIT_SUCCESS;
+}

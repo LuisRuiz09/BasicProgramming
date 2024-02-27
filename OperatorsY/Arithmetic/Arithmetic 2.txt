@@ -1,0 +1,12 @@
+#include <cstdlib>
+#include <iostream>
+// ejemplo 1
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    int x = 100 + 50;
+  cout << x;
+    
+    return 0;
+}
